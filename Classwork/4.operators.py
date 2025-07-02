@@ -1,6 +1,6 @@
 #Arthmatic operators
-a=10
-b=20
+a=20
+b=10
 print("Addition(+):",a+b)
 print("Substraction(-):",a-b)
 print("Multiplication(*):",a*b)
