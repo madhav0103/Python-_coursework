@@ -18,8 +18,8 @@ print(a, b, c)    # 100 100 100
 m = "nani"       #VariableAssignment
 del m            #delete the value
 
-name = "Manikanta"    #Assigning the value
-print(name)           # Manikanta
+name = "Madhav"    #Assigning the value
+print(name)           # Madhav
 
 
 '''
