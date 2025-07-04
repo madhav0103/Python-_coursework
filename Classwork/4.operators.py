@@ -59,3 +59,15 @@ b = a
 c = [1, 2, 3]
 print("Is operator:",a is b) #In operator: True
 print("Is Not operator:",a is not c) #Not In operator: True
+
+
+#7.BitwiseOperators
+
+x=4                                 #Binary= 0 1 0 0
+y=6                                 #Binary= 0 1 1 0
+                                             
+print("AND(&):", x&y)               # 0 1 0 0 = 4
+print("OR(|):", x|y)                # 0 1 1 0 = 6
+print("XOR(^):", x^y)               # 0 0 1 0 = 2       Opposite reactions can be True
+print("NOT(~):", ~x)                #  [~n = -(n + 1)]
+print("NOT(~):", ~y)                #  [~n = -(n + 1)]
